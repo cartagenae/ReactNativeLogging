@@ -1,0 +1,73 @@
+export const CREATE_TABLE = 'CREATE_TABLE';
+export const UPDATE_TABLE = 'UPDATE_TABLE';
+export const DELETE_TABLE = 'DELETE_TABLE';
+
+export const SET_TABLES = 'SET_TABLES';
+export const SET_COLUMNS = 'SET_COLUMNS';
+
+export const INSERT_ROW = 'INSERT_ROW';
+export const UPDATE_ROW = 'UPDATE_ROW';
+export const DELETE_ROW = 'DELETE_ROW';
+
+export const SET_ROWS = 'SET_ROWS';
+
+export const CREATE_LOG = 'CREATE_LOG';
+export const UPDATE_LOG = 'UPDATE_LOG';
+export const DELETE_LOG = 'DELETE_LOG';
+
+export const SET_LOGS = 'SET_LOGS';
+
+export const INSERT_LOG_ENTRY = 'INSERT_LOG_ENTRY';
+export const UPDATE_LOG_ENTRY = 'UPDATE_LOG_ENTRY';
+export const DELETE_LOG_ENTRY = 'DELETE_LOG_ENTRY';
+
+export const SET_ENTRIES = 'SET_ENTRIES';
+export const SHOW_ENTRIES = 'SHOW_ENTRIES'; //  Delete this when done
+export const SHOW_ROWS = 'SHOW_ROWS'; //  Delete this when done
+
+export const FETCH_SETTINGS = 'FETCH_SETTINGS';
+export const SET_DARK_MODE = 'SET_DARK_MODE';
+export const SET_COLOR_THEME = 'SET_COLOR_THEME';
+export const SET_SORT_LOGS_MODE = 'SET_SORT_LOGS_MODE';
+export const SET_SORT_TABLES_MODE = 'SET_SORT_TABLES_MODE';
+export const SET_LANGUAGE = 'SET_LANGUAGE';
+export const LOAD_SETTINGS = 'LOAD_SETTINGS';
+export const SETTING_CHANGED = 'SETTING_CHANGED'; // To pop CalendarScreen from main navigation stack
+
+export const DELETE_ALL_LOGS = 'DELETE_ALL_LOGS';
+export const DELETE_ALL_ENTRIES = 'DELETE_ALL_ENTRIES';
+export const DELETE_ALL_TABLES = 'DELETE_ALL_TABLES';
+export const DELETE_ALL_ROWS = 'DELETE_ALL_ROWS';
+export const DELETE_ALL_ROWS_BY_TABLE = 'DELETE_ALL_ROWS_BY_TABLE';
+
+export const SORT_LOGS_DATE_FIRST = 'SORT_LOGS_DATE_FIRST';
+export const SORT_LOGS_DATE_LAST = 'SORT_LOGS_DATE_LAST';
+export const SORT_LOGS_ALPHABETICAL_ASCENDING = 'SORT_LOGS_ALPHABETICAL_ASCENDING';
+export const SORT_LOGS_ALPHABETICAL_DESCENDING = 'SORT_LOGS_ALPHABETICAL_DESCENDING';
+export const SORT_TABLES_DATE_LAST = 'SORT_TABLES_DATE_LAST';
+export const SORT_TABLES_DATE_FIRST = 'SORT_TABLES_DATE_FIRST';
+export const SORT_TABLES_ALPHABETICAL_ASCENDING = 'SORT_TABLES_ALPHABETICAL_ASCENDING';
+export const SORT_TABLES_ALPHABETICAL_DESCENDING = 'SORT_TABLES_ALPHABETICAL_DESCENDING';
+
+export const DELETE_LOGS_TRUE = 'DELETE_LOGS_TRUE';
+export const DELETE_LOGS_FALSE = 'DELETE_LOGS_FALSE';
+export const DELETE_TABLES_TRUE = 'DELETE_TABLES_TRUE';
+export const DELETE_TABLES_FALSE = 'DELETE_TABLES_FALSE';
+
+// ----------------------------------------------------------------------
+
+export const ADD_DIARY = 'ADD_DIARY';
+export const UPDATE_DIARY = 'UPDATE_DIARY';
+export const DELETE_DIARY = 'DELETE_DIARY';
+
+export const ADD_SPIKE = 'ADD_SPIKE';
+export const UPDATE_SPIKE = 'UPDATE_SPIKE';
+export const DELETE_SPIKE = 'DELETE_SPIKE';
+
+export const ADD_SEIZURE = 'ADD_SEIZURE';
+export const UPDATE_SEIZURE = 'UPDATE_SEIZURE';
+export const DELETE_SEIZURE = 'DELETE_SEIZURE';
+
+export const ADD_SLEEP = 'ADD_SLEEP';
+export const UPDATE_SLEEP = 'UPDATE_SLEEP';
+export const DELETE_SLEEP = 'DELETE_SLEEP';
