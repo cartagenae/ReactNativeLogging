@@ -1,0 +1,30 @@
+expo-sqlite
+expo-file-system
+expo-sharing
+
+xlsx
+
+moment (moment.js)
+
+react-native-paper
+react-native-paper-dates
+react-native-calendars
+@react-native-async-storage/async-storage
+
+react-navigation-header-buttons
+react-native-modal-datetime-picker
+@react-native-community/datetimepicker
+
+react navigation:
+@react-navigation/stack
+@react-navigation/drawer
+@react-navigation/material-bottom-tabs
+@react-navigation/native
+
+* All other react-navigation dependencies in the getting started page
+
+redux:
+@reduxjs/toolkit
+redux
+react-redux
+redux-thunk
