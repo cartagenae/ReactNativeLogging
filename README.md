@@ -20,6 +20,14 @@
 
 
 
+### Deleting a table
+
+
+
+### Extracting a log/table
+
+
+
 ### Dark Mode
 
 
