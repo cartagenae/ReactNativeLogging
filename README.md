@@ -2,6 +2,8 @@
 
 <h3>Read the <a href='https://github.com/cartagenae/ReactNativeLogging/blob/main/LICENSE'>LICENSE</a> before proceeding</h3>
 
+
+
 > Every log and table saves on the device persistently. Settings also save through persistent data.
 
 https://user-images.githubusercontent.com/6395465/160305927-f4e3785d-2540-43ed-bbfe-7d6179df787b.mov
