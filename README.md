@@ -1,6 +1,6 @@
 # ReactNativeLogging
 
-<a href='#'><h1>LICENSE<h1></a>
+<a href='#'><h1>LICENSE</h1></a>
 
 > Every log and table saves on the device persistently. Settings also save through persistent data.
 
