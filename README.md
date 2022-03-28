@@ -28,13 +28,8 @@ https://user-images.githubusercontent.com/6395465/160306718-e8c5f5b2-4ae8-46de-a
 
 ### Extracting a log/table
 
+https://user-images.githubusercontent.com/6395465/160308081-6c9c2093-6443-45c0-b06f-4fbbf7ad1045.mov
 
+### Settings
 
-### Dark Mode
-
-
-
-### Setting a language
-
-
-
+https://user-images.githubusercontent.com/6395465/160308181-8498c7ed-57f7-4be8-a74d-c350dee449e5.mov
