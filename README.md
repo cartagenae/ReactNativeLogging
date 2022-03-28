@@ -1,5 +1,7 @@
 # ReactNativeLogging
 
+* Every log and table saves on the device persistently
+
 https://user-images.githubusercontent.com/6395465/160305927-f4e3785d-2540-43ed-bbfe-7d6179df787b.mov
 
 ### Adding a log
