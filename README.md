@@ -1,6 +1,6 @@
 # ReactNativeLogging
 
-###### A prototype of my logging app
+##### A prototype of my logging app
 
 <h3>Read the <a href='https://github.com/cartagenae/ReactNativeLogging/blob/main/LICENSE'>LICENSE</a> before proceeding</h3>
 
